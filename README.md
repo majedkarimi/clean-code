@@ -14,10 +14,7 @@ A practical presentation for frontend developers on writing cleaner, more mainta
 
 ## 🔥 Error Handling
 
-- **Types of Errors in JavaScript:**  
-  `SyntaxError`, `ReferenceError`, `TypeError`
-
-- **try / catch / finally** – Catch and handle runtime issues
-- **throwing Errors** – Explicitly signal something went wrong
-- **Error Guards** – Prevent bad execution early
-- **Extracting Validation Code** – Cleanly separate input checks from main logic
+- **throwing Errors**
+- **try / catch**
+- **Error Guards**
+- **Extracting Validation Code**
