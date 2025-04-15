@@ -1,6 +1,6 @@
 # 🧼 Clean Code in JavaScript
 
-A practical presentation for frontend developers on writing cleaner, more maintainable JavaScript by mastering control structures and error handling.
+A practical presentation for frontend developers on writing cleaner, more maintainable JavaScript by control structures and error handling.
 
 ---
 
