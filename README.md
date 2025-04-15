@@ -6,9 +6,9 @@ A practical presentation for frontend developers on writing cleaner, more mainta
 
 ## 🧠 Control Structures
 
-- **Guard Clauses** – Return early for clarity
-- **Extracting Conditions into Functions** – Make logic readable and testable
-- **Inverting Conditional Logic** – Flip conditions to reduce nesting
+- **Guards**
+- **Extracting Conditions into Functions**
+- **Inverting Conditional Logic**
 
 ---
 
